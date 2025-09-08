@@ -1,0 +1,15 @@
+$backgrand-color: linear-gradient(259.93deg, #000000 -41.68%, #182848 146.85%);
+$primary-text-color: #ffffff;
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  margin: 0;
+  font-family: "Epunda Slab", serif;
+  background: $backgrand-color;
+  color: $primary-text-color;
+}
